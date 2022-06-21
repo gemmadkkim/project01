@@ -27,7 +27,7 @@ body {
 .login i{font-size: 13px;}
 .login a{display: block; float: right;color: white;font-size: 14px;}
 
-.visualWrap{width: 100%;height: 1030px;}
+.visualWrap{width: 100%;height: 1030px;margin-bottom: 200px;}
 .swiper {width: 100%;height: 100%;}
 .swiper-slide {
     text-align: center;
