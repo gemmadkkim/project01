@@ -239,6 +239,7 @@ div .quick{
 }
 
 @keyframes pos {
+
   from {right: 40px;}
   to {right: 20px;opacity: 0;}
 }
@@ -246,7 +247,7 @@ div .quick{
 
 /* 연지 */
 
-.bannerWrap {width: 100%; margin:0 auto; height: 72px;margin-bottom: 50px;}
+.bannerWrap {width: 1300px; margin:0 auto; height: 72px;margin-bottom: 50px;}
 
 .bannerWrap .swiper{
     width: 1200px;
@@ -272,17 +273,15 @@ div .quick{
     cursor: pointer;   
 } */
 
-/* 
-.swiper-button-next, .swiper-button-prev {
-    width: 850px;
-    position: absolute; top:40px;
+
+.bannerWrap{position: relative;}
+.bannerWrap .swiper-button-next, 
+.bannerWrap .swiper-button-prev {
+    position: absolute; 
     z-index: 10;
     cursor: pointer;
-    display: flex;    
-    justify-content: center;
     color:#999;
-    
-} */
+}
 
 
 /* footer */
