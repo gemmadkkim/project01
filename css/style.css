@@ -295,7 +295,7 @@ div .quick{
     float: left; display: block; text-align: center;
 }
 .ftTop a{
-    color: #fff;
+    color: rgb(117, 115, 126);
     float: left; padding: 20px;
     display: flex; justify-content: center; align-items: center;
 }
@@ -320,7 +320,7 @@ div .quick{
 .ftadd p{
     float: left;
     display: flex; justify-content: center;align-items: center;
-    color: #fff; 
+    color:rgb(117, 115, 126); 
     letter-spacing: -0.5px; 
     line-height: 20px;
 }
